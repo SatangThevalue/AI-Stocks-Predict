@@ -74,6 +74,6 @@ This project was built in Python.
 
 - [@SatangThevalue](https://github.com/SatangThevalue)
 - [@13EC4USE](https://github.com/13EC4USE)
-
+- [@tnp-46](https://github.com/tnp-46)
 ## 🎉 Acknowledgements | กิตติกรรมประกาศ <a name = "acknowledgement"></a>
 
