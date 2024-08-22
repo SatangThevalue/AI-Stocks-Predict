@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 yfinance = "*"
+pandas = "*"
+numpy = "*"
+requests = "*"
+lxml = "*"
 
 [dev-packages]
 
